@@ -41,3 +41,5 @@ ggplot(data=observations.summ, aes(x=month,y=n))+
        # axis.text = element_blank(),        
         axis.ticks = element_blank(),       
         axis.line = element_blank())
+
+#next steps?
